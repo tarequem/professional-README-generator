@@ -43,10 +43,15 @@ function generateMarkdown(data) {
   ${badge} 
   ## Table of Contents 
   [Description](#description)
+
   [Installation](#installation)
+
   [Usage](#usage)
+
   [Contribution](#contributors)
+
   [Testing](#test)
+  
   [Contact Info](#contact-info)
 
   ## Description:
